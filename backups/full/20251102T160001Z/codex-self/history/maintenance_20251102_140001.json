@@ -1,0 +1,26 @@
+{
+  "current_state": {
+    "status": "initializing",
+    "active_tasks": 0,
+    "last_health_check": "2025-11-02T13:55:01+11:00",
+    "cpu_percent_avg": 6.5,
+    "memory_mb_used": 1144
+  },
+  "resource_limits": {
+    "cpu_percent_max": 80,
+    "memory_mb_max": 4096,
+    "disk_mb_min": 1024,
+    "concurrent_tasks_max": 3
+  },
+  "enforcement_stats": {
+    "requests_rejected_resource": 0,
+    "requests_rejected_boundary": 0,
+    "requests_deferred": 0,
+    "emergency_throttles": 0
+  },
+  "health_indicators": {
+    "resource_health": "green",
+    "boundary_health": "green",
+    "decision_consistency": "green"
+  }
+}
