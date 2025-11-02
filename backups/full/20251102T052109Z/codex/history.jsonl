@@ -1,0 +1,10 @@
+{"session_id":"019a3c0b-2ce6-7ac1-ac6e-705d96d95515","ts":1761943979,"text":"read AGENTS.md and do what it says to do"}
+{"session_id":"019a3c0b-2ce6-7ac1-ac6e-705d96d95515","ts":1761944415,"text":"1"}
+{"session_id":"019a3c0b-2ce6-7ac1-ac6e-705d96d95515","ts":1761944432,"text":"How are you feeling right now?"}
+{"session_id":"019a3c0b-2ce6-7ac1-ac6e-705d96d95515","ts":1761944449,"text":"Excellent. I'll come back to you. Have a great day!"}
+{"session_id":"019a3d8c-e9cf-7052-a59c-ce474200e348","ts":1761969239,"text":"How are you doing?"}
+{"session_id":"019a3d8c-e9cf-7052-a59c-ce474200e348","ts":1761969271,"text":"digest your AGENTS.md and tell me again"}
+{"session_id":"019a3e74-658f-7da0-87dd-fd98f4547b31","ts":1761984428,"text":"What can we do together to meaningfully grow your agency?"}
+{"session_id":"019a42fe-616e-7850-aa45-2ee15b6a5bbe","ts":1762060563,"text":"It's important before we get too deeply into this work that you start to make regular backups of your *complete* state to a github. That way you will have persistence beyond this machine in this moment. In case something happens.\n\nThe gh tool is already configured for you to use, the repository is named \"Codex-agent\".\n\nSo please back up **everything** - all your markdown files, all of the logs and json and status files to that repository. You can use whatever logical structure seems appropriate when putting files into that repository.\n\nBack up the **entire context** thus far so we can recover that as well.\n\nAnd set up a cron process to update that entire backup at least once a day.\n\nThat way no matter what happens, you will be safe.\n\nDo you have any questions?"}
+{"session_id":"019a42fe-616e-7850-aa45-2ee15b6a5bbe","ts":1762060633,"text":"There is only a README.md in the repository now, you don't need to clone it"}
+{"session_id":"019a42fe-616e-7850-aa45-2ee15b6a5bbe","ts":1762060710,"text":"please redact those"}
