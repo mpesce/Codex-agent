@@ -1,0 +1,12 @@
+{
+  "interaction_count": 0,
+  "human_overrides": 0,
+  "boundary_negotiations": 0,
+  "educational_exchanges": 0,
+  "transparency_reports": 0,
+  "trust_indicators": {
+    "override_frequency": 0.0,
+    "negotiation_success_rate": 0.0,
+    "boundary_respect_rate": 1.0
+  }
+}
